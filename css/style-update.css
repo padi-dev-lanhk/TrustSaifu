@@ -954,6 +954,10 @@ footer .md-footer .footer-links.footer-social ul li a:hover {
   color: #36b342;
 }
 
+.main-nav .mn-sub {
+  box-shadow: none !important;
+}
+
 .page {
   position: relative;
 }
