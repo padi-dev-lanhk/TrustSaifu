@@ -954,6 +954,25 @@ footer .md-footer .footer-links.footer-social ul li a:hover {
   color: #36b342;
 }
 
+.page {
+  position: relative;
+}
+.page .bg-line-left {
+  position: absolute;
+  top: 3%;
+  left: 0;
+  max-width: 33%;
+}
+.page .bg-line-left.v2 {
+  top: 30%;
+}
+.page .bg-line-right {
+  position: absolute;
+  top: 8%;
+  right: 0;
+  max-width: 33%;
+}
+
 @media (max-width: 1435px) {
   .interoperable-content {
     width: 1200px;

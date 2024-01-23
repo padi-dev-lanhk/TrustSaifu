@@ -965,6 +965,24 @@ footer{
 		color: $color3;
 	}
 }
+.page{
+	position: relative;
+	.bg-line-left{
+		position: absolute;
+		top: 3%;
+		left: 0;
+		max-width: 33%;
+		&.v2{
+			top: 30%;
+		}
+	}
+	.bg-line-right{
+		position: absolute;
+		top: 8%;
+		right: 0;
+		max-width: 33%;
+	}
+}
 // mobile
 @media (max-width: 1435px) {
   .interoperable-content {
