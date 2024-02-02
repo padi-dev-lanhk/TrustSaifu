@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.metafe.trustsaifu",
+    "sha256_cert_fingerprints":
+    ["DC:19:B9:B7:8F:6D:3E:72:65:F1:16:27:23:C2:D3:C0:96:E6:01:78:AD:4F:6D:50:B6:6B:7C:83:52:D2:E2:2C"]
+  }
+}]
